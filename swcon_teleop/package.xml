@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>swcon_teleop</name>
+  <version>0.0.1</version>
+  <description>
+    swcon robot package - Teleoperation tools.
+  </description>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <author email="pinkwink@omorobot.com">PinkWink</author>
+  <maintainer email="stuff789@naver.com">gonglini</maintainer>
+
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+</package>
